@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/HW3_IntroducingEwha/MainScene.unity
+    guid: 3adafc2cb62439449b6097f1bef6a9bd
+  - enabled: 1
+    path: Assets/HW3_IntroducingEwha/CoE.unity
+    guid: 4023a7aecebc63548a0ee49d641ca7c3
+  - enabled: 1
+    path: Assets/HW3_IntroducingEwha/ECC.unity
+    guid: eefbad56a59d1584489581979ddc7656
   m_configObjects: {}
